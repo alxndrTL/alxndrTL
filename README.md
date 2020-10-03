@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Wanna see some rockets land autonomously using artificial intelligence ? Check out this repo:
 
 <!--
 **Procuste34/Procuste34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

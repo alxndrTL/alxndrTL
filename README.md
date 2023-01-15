@@ -1,4 +1,4 @@
-### Landing rockets autonomously using artificial intelligence
+### My favorite project I've done : Landing rockets autonomously using artificial intelligence
 
 <!--
 **Procuste34/Procuste34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

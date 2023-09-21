@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=procuste34&repo=Landing-Starships)](https://github.com/Procuste34/Landing-Starships)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alxndrTL&repo=Landing-Starships)](https://github.com/alxndrTL/Landing-Starships)

@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alxndrTL&repo=mamba.py)](https://github.com/alxndrTL/mamba.py)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alxndrTL&repo=othello-mamba)](https://github.com/alxndrTL/othello_mamba)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alxndrTL&repo=othello_mamba)](https://github.com/alxndrTL/othello_mamba)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alxndrTL&repo=ARC_LLMs)](https://github.com/alxndrTL/ARC_LLMs)
